@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn
 jupyterlab
+torch
+flask
+flask-cors
